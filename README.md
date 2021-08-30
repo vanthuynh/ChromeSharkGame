@@ -1,5 +1,5 @@
 # Chrome**Shark**Game 
-
+[![Game Cover](/imgs/readmegamecover.png)]
 The game was created and submitted for SharkHack3 competition hosted by Major League Hacking (MLH). 
 
 ## **Core Concepts:** 
@@ -9,8 +9,10 @@ The game was created and submitted for SharkHack3 competition hosted by Major Le
 
 ## **Game Characters:**
 - shark
-- octopus
+![shark image](/imgs/sharkmodel.gif)
 - submarine
+![shark image](/imgs/sub.gif)
+- octopus
 - scubar divers
 
 ## **Tools, Language, Platforms:**
