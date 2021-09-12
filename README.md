@@ -2,7 +2,7 @@
 
 <br>
 
-![Game Cover](/imgs/readmegamecover.png)
+![Game Cover](/productionImages/readmegamecover.png)
 
 <br>
 The game was created and submitted for SharkHack3 competition hosted by Major League Hacking (MLH). 
@@ -15,11 +15,11 @@ The game was created and submitted for SharkHack3 competition hosted by Major Le
 ## **Game Characters:** 
 - shark
 
-![shark image](/imgs/sharkmodel.gif)
+![shark image](/productionImages/sharkmodel.gif)
 
 - submarine
 
-![shark image](/imgs/sub.gif)
+![shark image](/productionImages/sub.gif)
 
 - octopus (to be updated)
 - scubar divers (to be updated)
