@@ -9,12 +9,12 @@ Chrome Shark_Data
 MonoBleedingEdge
 SourceImages
 sharkwebgl/Build
-Assets/Animation
-Assets/Fonts
-Assets/Prefabs
-Assets/Sounds
-Assets/Sprite
-Assets/Scenes
+Assets/Animation/
+Assets/Fonts/
+Assets/Prefabs/
+Assets/Sounds/
+Assets/Sprite/
+Assets/Scenes/
 Assets/Script/*.cs.meta
 Assets/*.meta
 
